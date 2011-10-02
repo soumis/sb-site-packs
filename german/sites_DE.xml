@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	Social Bookmarks
+	German Bookmarking Sites
+	Copyright(c) Apostolos Dountsis
+	http://www.dountsis.com
+-->
+
+<social_sites xsi:noNamespaceSchemaLocation="social_bookmarks.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<site>
+  <name>Mister Wong</name>
+	<url>http://www.mister-wong.de/index.php?action=addurl&amp;bm_url={link}&amp;title={title}</url>
+	<img>misterwong.png</img>
+	<key>misterwong_de</key>
+ </site>
+
+ <site>
+  <name>YiGG</name>
+	<url>http://yigg.de/neu?action=addurl&amp;exturl={link}&amp;exttitle={title}</url>
+	<img>yigg.png</img>
+	<key>yigg_de</key>
+ </site>
+</social_sites>

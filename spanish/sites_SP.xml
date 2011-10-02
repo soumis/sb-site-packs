@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	Social Bookmarks
+	
+	Spanish Language Pack
+	version 1.0
+	Copyright(c) Apostolos Dountsis
+	http://www.dountsis.com
+-->
+<social_sites xsi:noNamespaceSchemaLocation="social_bookmarks.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <site>
+    <name>Blogmemes</name>
+    <url>http://www.blogmemes.com/post.php?url={link}&amp;title={title}</url>
+    <img>blogmemes.png</img>
+    <key>blogmemes</key>
+  </site>
+  <site>
+  <name>Rec6</name>
+    <url>http://www.syxt.com.br/rec6/link.php?url={link}&amp;={title}</url>
+    <img>rec6.png</img>
+    <key>rec6</key>
+  </site>
+</social_sites>

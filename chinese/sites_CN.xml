@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	Social Bookmarks
+	version 1.0
+	Chinese Language Pack
+	
+	Copyright(c) Apostolos Dountsis
+	http://www.dountsis.com
+-->
+<social_sites xsi:noNamespaceSchemaLocation="social_bookmarks.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <site>
+    <name>Blogmemes</name>
+    <url>http://www.blogmemes.cn/post.php?url={link}&amp;title={title}</url>
+    <img>blogmemes.png</img>
+    <key>blogmemes_cn</key>
+  </site>
+  <site>
+    <name>Haohao</name>
+    <url>http://www.haohaoreport.com/submit.php?url={link}&amp;title={title}</url>
+    <img>haohao.png</img>
+    <key>haohao_cn</key>
+  </site>   
+</social_sites>

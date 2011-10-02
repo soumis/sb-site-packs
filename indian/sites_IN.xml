@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	Social Bookmarks
+	version 1.0
+	Indian Language Pack
+	
+	Copyright(c) Apostolos Dountsis
+	http://www.dountsis.com
+-->
+<social_sites xsi:noNamespaceSchemaLocation="social_bookmarks.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <site>
+    <name>IndiaGram</name>
+    <url>http://www.indiagram.com/mock/bookmarks/desitrain?action=add&amp;address={link}&amp;title={title}</url>
+    <img>indiagram.png</img>
+    <key>indiagram</key>
+  </site>
+  <site>
+    <name>IndianPad</name>
+    <url>http://www.indianpad.com/submit.php?url={link}</url>
+    <img>indianpad.png</img>
+    <key>indianpad</key>
+  </site>
+</social_sites>

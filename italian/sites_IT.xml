@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	Social Bookmarks
+	Italian Bookmarking Sites
+	Copyright(c) Apostolos Dountsis
+	http://www.dountsis.com
+-->
+
+<social_sites xsi:noNamespaceSchemaLocation="social_bookmarks.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <site>
+    <name>Segnalo</name>
+    <url>http://segnalo.com/post.html.php?url={link}&amp;title={title}</url>
+    <img>segnalo.png</img>
+    <key>segnalo</key>
+  </site>
+  <site>
+    <name>Smarking</name>
+    <url>http://smarking.com/editbookmark/?url={link}&amp;title={title}</url>
+    <img>smarking.png</img>
+    <key>smarking</key>
+  </site>
+  <site>
+    <name>OKnotizie</name>
+    <url>http://oknotizie.com/post?url={link}&amp;title={title}</url>
+    <img>oknotizie.png</img>
+    <key>oknotizie</key>
+  </site>
+</social_sites>

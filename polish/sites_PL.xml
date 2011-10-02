@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	Social Bookmarks
+	
+	Polish Language Pack
+	version 1.0
+	Copyright(c) Apostolos Dountsis
+	http://www.dountsis.com
+-->
+<social_sites xsi:noNamespaceSchemaLocation="social_bookmarks.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <site>
+    <name>Gwar</name>
+    <url>http://www.gwar.pl/DodajGwar.html?u={link}</url>
+    <img>gwar.png</img>
+    <key>gwar</key>
+  </site>
+</social_sites>

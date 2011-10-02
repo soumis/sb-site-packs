@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	Social Bookmarks
+
+	Hungarian Language Pack
+	version 1.0	
+	Copyright(c) Apostolos Dountsis
+	http://www.dountsis.com
+-->
+<social_sites xsi:noNamespaceSchemaLocation="social_bookmarks.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <site>
+    <name>Blogter Alternativ Cimlap</name>
+    <url>http://cimlap.blogter.hu/index.php?action=suggest_link&title={title}&amp;url={link}</url>
+    <img>blogter.png</img>
+    <key>blogter_hu</key>
+  </site>
+   <site>
+    <name>Book.mark.hu</name>
+    <url>http://book.mark.hu/bookmarks.php/?action=add&amp;address={link}&amp;title={title}</url>
+    <img>bookmark.png</img>
+    <key>bookmark_hu</key>
+  </site>
+  <site>
+	<name>Internetmedia</name>
+	<url>http://internetmedia.hu/submit.php?url={link}</url>
+	<img>internetmedia.png</img>
+	<key>internetmedia_hu</key>
+  </site>
+  <site>
+	<name>Linkter</name>
+	<url>http://www.linkter.hu/index.php?action=suggest_link&amp;url={link}&amp;title={title}</url>
+	<img>linkter.png</img>
+	<key>linkter_hu</key>
+  </site>
+</social_sites>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	Social Bookmarks
+	version 1.0
+	French Language Pack
+	
+	Copyright(c) Apostolos Dountsis
+	http://www.dountsis.com
+-->
+<social_sites xsi:noNamespaceSchemaLocation="social_bookmarks.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <site>
+    <name>Blogmemes</name>
+    <url>http://www.blogmemes.fr/post.php?url={link}&amp;title={title}</url>
+    <img>blogmemes.png</img>
+    <key>blogmemes_fr</key>
+  </site>
+  <site>
+    <name>Scoopeo</name>
+    <url>http://www.scoopeo.com/scoop/new?newurl={link}&amp;title={title}</url>
+    <img>scoopeo.png</img>
+    <key>scoopeo_fr</key>
+  </site>
+</social_sites>
